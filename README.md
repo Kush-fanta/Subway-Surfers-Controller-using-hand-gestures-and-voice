@@ -49,6 +49,4 @@ Choose:
 
 Say “exit” in audio mode or press ESC in gesture mode to return to the menu.
 
-## License
-MIT  
-```
+
