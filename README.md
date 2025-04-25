@@ -1,4 +1,4 @@
-```markdown
+
 # Subway Surfers Game Control System
 
 Control an HTML5 (“Poki”) or emulator-based Subway Surfers with your **hand gestures** and **voice commands**, fully offline.
